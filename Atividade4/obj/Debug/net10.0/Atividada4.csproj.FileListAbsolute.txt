@@ -1,0 +1,15 @@
+/workspaces/lista-de-exercicios---pj/Atividade4/bin/Debug/net10.0/Atividada4
+/workspaces/lista-de-exercicios---pj/Atividade4/bin/Debug/net10.0/Atividada4.deps.json
+/workspaces/lista-de-exercicios---pj/Atividade4/bin/Debug/net10.0/Atividada4.runtimeconfig.json
+/workspaces/lista-de-exercicios---pj/Atividade4/bin/Debug/net10.0/Atividada4.dll
+/workspaces/lista-de-exercicios---pj/Atividade4/bin/Debug/net10.0/Atividada4.pdb
+/workspaces/lista-de-exercicios---pj/Atividade4/obj/Debug/net10.0/Atividada4.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lista-de-exercicios---pj/Atividade4/obj/Debug/net10.0/Atividada4.AssemblyInfoInputs.cache
+/workspaces/lista-de-exercicios---pj/Atividade4/obj/Debug/net10.0/Atividada4.AssemblyInfo.cs
+/workspaces/lista-de-exercicios---pj/Atividade4/obj/Debug/net10.0/Atividada4.csproj.CoreCompileInputs.cache
+/workspaces/lista-de-exercicios---pj/Atividade4/obj/Debug/net10.0/Atividada4.sourcelink.json
+/workspaces/lista-de-exercicios---pj/Atividade4/obj/Debug/net10.0/Atividada4.dll
+/workspaces/lista-de-exercicios---pj/Atividade4/obj/Debug/net10.0/refint/Atividada4.dll
+/workspaces/lista-de-exercicios---pj/Atividade4/obj/Debug/net10.0/Atividada4.pdb
+/workspaces/lista-de-exercicios---pj/Atividade4/obj/Debug/net10.0/Atividada4.genruntimeconfig.cache
+/workspaces/lista-de-exercicios---pj/Atividade4/obj/Debug/net10.0/ref/Atividada4.dll

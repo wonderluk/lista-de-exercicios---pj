@@ -1,0 +1,15 @@
+/workspaces/lista-de-exercicios---pj/Atividade2/bin/Debug/net10.0/Atividade2
+/workspaces/lista-de-exercicios---pj/Atividade2/bin/Debug/net10.0/Atividade2.deps.json
+/workspaces/lista-de-exercicios---pj/Atividade2/bin/Debug/net10.0/Atividade2.runtimeconfig.json
+/workspaces/lista-de-exercicios---pj/Atividade2/bin/Debug/net10.0/Atividade2.dll
+/workspaces/lista-de-exercicios---pj/Atividade2/bin/Debug/net10.0/Atividade2.pdb
+/workspaces/lista-de-exercicios---pj/Atividade2/obj/Debug/net10.0/Atividade2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lista-de-exercicios---pj/Atividade2/obj/Debug/net10.0/Atividade2.AssemblyInfoInputs.cache
+/workspaces/lista-de-exercicios---pj/Atividade2/obj/Debug/net10.0/Atividade2.AssemblyInfo.cs
+/workspaces/lista-de-exercicios---pj/Atividade2/obj/Debug/net10.0/Atividade2.csproj.CoreCompileInputs.cache
+/workspaces/lista-de-exercicios---pj/Atividade2/obj/Debug/net10.0/Atividade2.sourcelink.json
+/workspaces/lista-de-exercicios---pj/Atividade2/obj/Debug/net10.0/Atividade2.dll
+/workspaces/lista-de-exercicios---pj/Atividade2/obj/Debug/net10.0/refint/Atividade2.dll
+/workspaces/lista-de-exercicios---pj/Atividade2/obj/Debug/net10.0/Atividade2.pdb
+/workspaces/lista-de-exercicios---pj/Atividade2/obj/Debug/net10.0/Atividade2.genruntimeconfig.cache
+/workspaces/lista-de-exercicios---pj/Atividade2/obj/Debug/net10.0/ref/Atividade2.dll

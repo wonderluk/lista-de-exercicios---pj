@@ -1,0 +1,15 @@
+/workspaces/lista-de-exercicios---pj/Atividade3/bin/Debug/net10.0/Atividade3
+/workspaces/lista-de-exercicios---pj/Atividade3/bin/Debug/net10.0/Atividade3.deps.json
+/workspaces/lista-de-exercicios---pj/Atividade3/bin/Debug/net10.0/Atividade3.runtimeconfig.json
+/workspaces/lista-de-exercicios---pj/Atividade3/bin/Debug/net10.0/Atividade3.dll
+/workspaces/lista-de-exercicios---pj/Atividade3/bin/Debug/net10.0/Atividade3.pdb
+/workspaces/lista-de-exercicios---pj/Atividade3/obj/Debug/net10.0/Atividade3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lista-de-exercicios---pj/Atividade3/obj/Debug/net10.0/Atividade3.AssemblyInfoInputs.cache
+/workspaces/lista-de-exercicios---pj/Atividade3/obj/Debug/net10.0/Atividade3.AssemblyInfo.cs
+/workspaces/lista-de-exercicios---pj/Atividade3/obj/Debug/net10.0/Atividade3.csproj.CoreCompileInputs.cache
+/workspaces/lista-de-exercicios---pj/Atividade3/obj/Debug/net10.0/Atividade3.sourcelink.json
+/workspaces/lista-de-exercicios---pj/Atividade3/obj/Debug/net10.0/Atividade3.dll
+/workspaces/lista-de-exercicios---pj/Atividade3/obj/Debug/net10.0/refint/Atividade3.dll
+/workspaces/lista-de-exercicios---pj/Atividade3/obj/Debug/net10.0/Atividade3.pdb
+/workspaces/lista-de-exercicios---pj/Atividade3/obj/Debug/net10.0/Atividade3.genruntimeconfig.cache
+/workspaces/lista-de-exercicios---pj/Atividade3/obj/Debug/net10.0/ref/Atividade3.dll
